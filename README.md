@@ -51,6 +51,10 @@ El proceso de compresión sigue estos pasos matemáticos:
 ----------Notas del Desarrollador----------
 
 . Esta versión está diseñada exclusivamente para Windows. Si intenta ejecutarla en un entorno Linux, el programa presentará errores de compatibilidad.
+
 . ¿Por qué PSNR?: Es una medida de la fidelidad de la reconstrucción. A mayor PSNR, mejor calidad de imagen.
+
 . El programa está programado para detectar si se ejecuta como script o como .exe, asegurando que las gráficas se guarden siempre en la raíz del proyecto Comprimidor Fourier/grafica.
+
 . Tengo hambre :(
+
